@@ -8,7 +8,7 @@
 
   // ---------- Configuration ----------
   const TELEGRAM_INVITE = 'https://t.me/+X4_vvwvycvoxYjlk';
-  const VERIFICATION_HANDLE = '@RETARDEDLYRICH';
+  const VERIFICATION_HANDLE = '@Nexusmn';
   const SUPPORT_EMAIL = 'Wavemini43@gmail.com';
 
   // You provided the same BEP20 address for all networks — using exactly as given.
